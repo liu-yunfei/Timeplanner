@@ -1,5 +1,6 @@
-#                                    Timeplanner
+#   Timeplanner
 ### Timeplanner-Plan Your Time
+### Try to arrange your time
 * * *
 ## Notice of code contribution
 1. Please use English as the written language for all text.
