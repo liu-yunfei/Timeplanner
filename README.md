@@ -9,5 +9,5 @@
 4. If you find any bugs or have any suggestions, please use **Issues** to report.
 5. Enjoy coding!
 
-                from the PolyU Timeplanner Group 
+                from from PolyU Timeplanner Group 
 
